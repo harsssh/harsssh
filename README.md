@@ -1,16 +1,8 @@
 ### Hi there 👋
 
 <div>
-  <img
-    src="https://github.com/harsssh/harsssh/blob/main/metrics1.svg"
-    width="48%"
-    style="vertical-align: top;"
-  />
-  <img
-    src="https://github.com/harsssh/harsssh/blob/main/metrics2.svg"
-    width="48%"
-    style="vertical-align: top;"
-  />
+  <img align="top" src="https://github.com/harsssh/harsssh/blob/main/metrics1.svg" width="48%" />
+  <img align="top" src="https://github.com/harsssh/harsssh/blob/main/metrics2.svg" width="48%" />
 </div>
 
 <!--

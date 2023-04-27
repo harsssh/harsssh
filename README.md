@@ -1,12 +1,20 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://github.com/harsssh/harsssh/blob/main/metrics1.svg" width="48%" />
-  <img src="https://github.com/harsssh/harsssh/blob/main/metrics2.svg" width="48%" />
+  <img
+    src="https://github.com/harsssh/harsssh/blob/main/metrics1.svg"
+    width="48%"
+    style="vertical-align: top;"
+  />
+  <img
+    src="https://github.com/harsssh/harsssh/blob/main/metrics2.svg"
+    width="48%"
+    style="vertical-align: top;"
+  />
 </div>
 
 <!--
-**sapphi-red/sapphi-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**harsssh/harsssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
